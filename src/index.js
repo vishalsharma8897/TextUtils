@@ -1,3 +1,5 @@
+// it is an entry point of the app here;
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
