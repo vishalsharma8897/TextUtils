@@ -4,6 +4,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
+
 // all the components are here to handle;
 export default function App() {
     return (
